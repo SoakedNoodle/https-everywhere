@@ -8,6 +8,6 @@
 
 
 	<rule from="^http://((?:roosters|www)\.)?rocmondriaan\.nl/"
-		to="https://$1rocmondriaan.nnl/"/>
+		to="https://$1rocmondriaan.nl/"/>
 
 </ruleset>
