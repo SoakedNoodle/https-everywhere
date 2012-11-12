@@ -1,0 +1,4 @@
+<ruleset name="Mondriaannet.nl">
+  <target host="www.mondriaannet.nl"/>
+  <rule from="^http://(www\.)?mondriaannet\.nl/" to="https://www.mondriaannet.nl/"/>
+</ruleset>
