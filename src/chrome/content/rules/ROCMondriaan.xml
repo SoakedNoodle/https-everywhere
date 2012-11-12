@@ -1,6 +1,4 @@
-<ruleset name="ROCMondriaan">
-	<target host="*.rocmondriaan.nl" />
-	<securecookie host="^.+\.rocmondriaan.\.nl$" name=".+" />
-	<rule from="^http://((?:roosters|www)\.)?rocmondriaan\.nl/"
-		to="https://$1rocmondriaan.nl/"/>
+<ruleset name="ROCMondriaan.nl">
+ <target host="*.rocmondriaan.nl"/>
+ <rule from="^http://((?:roosters|www)\.)?rocmondriaan\.nl/" to="https://$1rocmondriaan.nl/"/>
 </ruleset>
